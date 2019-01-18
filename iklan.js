@@ -1,22 +1,18 @@
 //<![CDATA[
 
-var img_width = "250";
-var img_height = "250";
+var img_width = "350";
+var img_height = "350";
 
 
 var ad=new Array()
-ad[0]='http://4.bp.blogspot.com/-zD__p6X-WUE/U6pXW7QcctI/AAAAAAAADQw/kz3y0_qy7QQ/s1600/autotexttebaru_250x250.png';
-ad[1]='http://2.bp.blogspot.com/-BuGR6b7KRY0/VWpktb05sTI/AAAAAAAAFkk/JZpwLYuo9lU/s1600/buatdpbbmkeren.gif';
-ad[2]='https://2.bp.blogspot.com/-qr1N2O8YeDQ/WfsAUL4krhI/AAAAAAAALVE/s3QjGeVqDG4gk8xeARUXPiwKKA1BUwRQQCLcBGAs/s1600/update-status-keren.gif';
-ad[3]='https://2.bp.blogspot.com/-Q5hU9T_CbXw/W0NJvXKU63I/AAAAAAAAMDc/BHoaEdjOn6wDuzQosRwpSoxDXyvIzJu7QCLcBGAs/s1600/statuswa.gif';
+ad[0]='https://2.bp.blogspot.com/-9GFVGBqB_78/XEH0bluLImI/AAAAAAAAMZk/3_zcbH5FdkI5fdYKyJyEXHkFryAZPEuiACLcBGAs/s1600/game-terbaik-android-2019.png';
+
 
 
 
 var links=new Array()
-links[0]='https://play.google.com/store/apps/details?id=com.nana.autoteksterbaru';
-links[1]='https://play.google.com/store/apps/details?id=com.nana.buatdpkeren';
-links[2]='https://goo.gl/hmhd54';
-links[3]='https://play.google.com/store/apps/details?id=com.nana.katastatus';
+links[0]='http://bit.ly/game-android-terbaik-2019';
+
 
 
 
